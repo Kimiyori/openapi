@@ -16,8 +16,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {
-    "test": "node ./__tests__/@openapi/admin.test.js"
-  },
-  "gitHead": "852343a1f9b43ae31b3c1527ae6773fd9fe4aaaf"
+  "gitHead": "e431e1050ea8675a67a0595307e53e8ca07b33ce"
 }

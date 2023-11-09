@@ -1,9 +1,9 @@
 {
-  "name": "@openapi/admin",
-  "version": "1.0.0",
+  "name": "@openapi12121/admin",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Максим Калин <mkalin@web-bee.ru>",
-  "homepage": "",
+  "homepage": "https://github.com/Kimiyori/openapi#readme",
   "license": "ISC",
   "main": "lib/admin.js",
   "directories": {
@@ -14,8 +14,19 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "gitHead": "b7ca4a405610a9f9c2c96bb39ab4021cfe100b70"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimiyori/openapi.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@openapi12121/admin.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Kimiyori/openapi/issues"
+  },
+  "devDependencies": {
+    "openapi-typescript-codegen": "^0.25.0"
+  }
 }

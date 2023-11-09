@@ -1,23 +1,18 @@
 {
-  "name": "openapi",
+  "name": "openapi12121",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "private": true,
   "workspaces": [
     "packages/*",
     "examples/*"
   ],
+  "description": "> TODO: description",
+  "author": "Максим Калин <mkalin@web-bee.ru>",
+  "homepage": "",
+  "license": "ISC",
   "devDependencies": {
     "lerna": "^7.4.2",
     "openapi-typescript-codegen": "^0.25.0"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org ",
-    "access": "public"
-  }
+  "dependencies": {}
 }

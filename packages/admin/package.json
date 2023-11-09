@@ -1,5 +1,5 @@
 {
-  "name": "@openapi12121/admin",
+  "name": "@kimiyori-test/admin",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Максим Калин <mkalin@web-bee.ru>",
@@ -21,7 +21,7 @@
     "url": "git+https://github.com/Kimiyori/openapi.git"
   },
   "scripts": {
-    "test": "node ./__tests__/@openapi12121/admin.test.js"
+    "test": "node ./__tests__/@kimiyori-test/admin.test.js"
   },
   "bugs": {
     "url": "https://github.com/Kimiyori/openapi/issues"
@@ -29,5 +29,5 @@
   "devDependencies": {
     "openapi-typescript-codegen": "^0.25.0"
   },
-  "gitHead": "0adff48628cc721fac9f97b2987a76d260c776e9"
+  "gitHead": "86e9ba8f17cc6d019239e5cbcc6c5accd0bf8d3b"
 }

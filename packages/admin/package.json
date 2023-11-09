@@ -28,5 +28,6 @@
   },
   "devDependencies": {
     "openapi-typescript-codegen": "^0.25.0"
-  }
+  },
+  "gitHead": "8e17505982becba3280ae8e09f02773a101d639c"
 }

@@ -1,0 +1,20 @@
+{
+  "name": "openapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
+  "devDependencies": {
+    "lerna": "^7.4.2",
+    "openapi-typescript-codegen": "^0.25.0"
+  }
+}

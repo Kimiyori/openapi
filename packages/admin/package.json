@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/@openapi/admin.test.js"
   },
-  "gitHead": "48253becaadc4bf069f6e1e8ccd0146b29c58b94"
+  "gitHead": "cb8c1870d018fed3243cb7a414825321f63d5b3b"
 }
